@@ -1,0 +1,14 @@
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\bin\Debug\net10.0\02_Quiz Game Project.exe
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\bin\Debug\net10.0\02_Quiz Game Project.deps.json
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\bin\Debug\net10.0\02_Quiz Game Project.runtimeconfig.json
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\bin\Debug\net10.0\02_Quiz Game Project.dll
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\bin\Debug\net10.0\02_Quiz Game Project.pdb
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.AssemblyInfoInputs.cache
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.AssemblyInfo.cs
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.csproj.CoreCompileInputs.cache
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.dll
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\refint\02_Quiz Game Project.dll
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.pdb
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\02_Quiz Game Project.genruntimeconfig.cache
+C:\Users\menna\source\repos\C# Piece of cake\02_Quiz Game Project\obj\Debug\net10.0\ref\02_Quiz Game Project.dll

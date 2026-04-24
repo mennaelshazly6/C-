@@ -1,0 +1,14 @@
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\bin\Debug\net10.0\03_Inventory Management System.exe
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\bin\Debug\net10.0\03_Inventory Management System.deps.json
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\bin\Debug\net10.0\03_Inventory Management System.runtimeconfig.json
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\bin\Debug\net10.0\03_Inventory Management System.dll
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\bin\Debug\net10.0\03_Inventory Management System.pdb
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.AssemblyInfo.cs
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.dll
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\refint\03_Inventory Management System.dll
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.pdb
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\03_Inventory Management System.genruntimeconfig.cache
+C:\Users\menna\source\repos\C# Piece of cake\03_Inventory Management System\obj\Debug\net10.0\ref\03_Inventory Management System.dll

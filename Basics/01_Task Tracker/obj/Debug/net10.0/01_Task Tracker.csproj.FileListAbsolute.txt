@@ -1,0 +1,14 @@
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\bin\Debug\net10.0\01_Task Tracker.exe
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\bin\Debug\net10.0\01_Task Tracker.deps.json
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\bin\Debug\net10.0\01_Task Tracker.runtimeconfig.json
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\bin\Debug\net10.0\01_Task Tracker.dll
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\bin\Debug\net10.0\01_Task Tracker.pdb
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.AssemblyInfoInputs.cache
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.AssemblyInfo.cs
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.csproj.CoreCompileInputs.cache
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.dll
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\refint\01_Task Tracker.dll
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.pdb
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\01_Task Tracker.genruntimeconfig.cache
+C:\Users\menna\source\repos\C# Piece of cake\01_Task Tracker\obj\Debug\net10.0\ref\01_Task Tracker.dll
